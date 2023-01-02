@@ -4,3 +4,5 @@ Emotive Canvas is a collaborative drawing application that allows users to creat
 This drawubg app provides a creative and non-verbal method of communication, allowing users to share their mood and enthusiasm through the use of indirect cues. It can be used as a tool for collaborative work, as well as a virtual whiteboard for brainstorming sessions.
 
 Project by Amelia Gan and Quoc Dang, advised by Jose Luis Garcia del Castillo
+
+Try the canvas here: https://emotive-canvas.glitch.me/
