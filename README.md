@@ -3,6 +3,9 @@ Emotive Canvas is a collaborative drawing tool that allows multiple users to dra
 
 This drawing app provides a creative and non-verbal method of communication, allowing users to share their mood and enthusiasm through the use of indirect cues. It can be used as a tool for collaborative work, as well as a virtual whiteboard for brainstorming sessions.
 
+![Windows - Chrome - Light (4)](https://user-images.githubusercontent.com/121802839/210312278-326b30d7-4eab-4e20-bd0a-fed4e4cdd1e6.png)
+
+undefined
 Project by Amelia Gan and Quoc Dang, advised by Jose Luis Garcia del Castillo
 
 Try the canvas here: https://emotive-canvas.glitch.me/
@@ -31,8 +34,11 @@ To draw on the canvas, simply move your head around to control the cursor and ma
 The app is built with the following technologies:
 
 Node.js: A JavaScript runtime for building server-side applications.
+
 socket.io: A library for real-time, bidirectional communication between servers and clients.
+
 face-api.js: A library for detecting and tracking facial features in the browser.
+
 p5.js: A JavaScript library for creating graphics and interactive experiences.
 
 ## Modifying the App
