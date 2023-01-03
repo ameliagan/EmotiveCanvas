@@ -3,7 +3,7 @@ Emotive Canvas is a collaborative drawing tool that allows multiple users to dra
 
 This drawing app provides a creative and non-verbal method of communication, allowing users to share their mood and enthusiasm through the use of indirect cues. It can be used as a tool for collaborative work, as well as a virtual whiteboard for brainstorming sessions.
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/121802839/210312278-326b30d7-4eab-4e20-bd0a-fed4e4cdd1e6.png)" width="600">
+<img src="https://user-images.githubusercontent.com/121802839/210312278-326b30d7-4eab-4e20-bd0a-fed4e4cdd1e6.png" width="600">
 
 undefined
 Project by Amelia Gan and Quoc Dang, advised by Jose Luis Garcia del Castillo
