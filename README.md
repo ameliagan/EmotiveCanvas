@@ -5,7 +5,6 @@ This drawing app provides a creative and non-verbal method of communication, all
 
 <img src="https://user-images.githubusercontent.com/121802839/210312278-326b30d7-4eab-4e20-bd0a-fed4e4cdd1e6.png" width="300">
 
-undefined
 Project by Amelia Gan and Quoc Dang, advised by Jose Luis Garcia del Castillo
 
 Try the canvas here: https://emotive-canvas.glitch.me/
