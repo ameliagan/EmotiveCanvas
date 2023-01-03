@@ -48,7 +48,7 @@ The stroke weight: The app uses the strokeW variable to control the stroke weigh
 
 The GUI controls: The app includes a GUI (graphical user interface) that allows users to control certain aspects of the app. You can modify the code in the setup() function to add or remove GUI elements. (Currently these features have been commented out)
 
-## server.js
+## Server.js
 The server.js file is used to set up the server for the collaborative drawing app. It uses the express and http libraries to create a server and handle HTTP requests and responses.
 
 The server listens for incoming connections on the specified port (SERVER_PORT) and uses the cors configuration to allow cross-origin requests from certain domains.
