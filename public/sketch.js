@@ -1,7 +1,7 @@
 
 // JL: Choose a different URL depending on the host
 // const SOCKET_SERVER_URL = 'http://localhost:5500';
-const SOCKET_SERVER_URL = 'https://crazy-monkey.glitch.me';
+const SOCKET_SERVER_URL = 'https://emotive-canvas.glitch.me';
 
 //pop-up message 
 // alert("hit spacebar for a souvenir");
