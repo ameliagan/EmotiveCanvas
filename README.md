@@ -16,6 +16,14 @@ In the terminal, navigate to the root directory of the project and run npm insta
 Run node sketch.js to start the server.
 Open a web browser and go to http://localhost:5500 to access the app.
 
+If running the app on glitch, change the server url to the site that glitch is hosting on. 
+i.e. const SOCKET_SERVER_URL = 'https://emotive-canvas.glitch.me';
+Additionally in server.js, uncomment the following: 
+const SERVER_PORT = process.env.PORT;
+const SERVER_CONFIG = {
+  cors: { origin: ["https://glitch.me", "https://cdpn.io", "https://glitch.me", "https://cdpn.io"] }
+};
+
 ## Using the App
 To draw on the canvas, simply move your head around to control the cursor and make facial expressions to change the color and stroke weight of the lines being drawn. The app will automatically detect your facial expressions and adjust the drawing accordingly.
 
@@ -33,6 +41,8 @@ To make changes to the app, you can edit the code in the sketch.js file. Here ar
 The URL of the socket server: By default, the app connects to a socket server hosted at https://emotive-canvas.glitch.me. If you want to run your own socket server, you can modify the SOCKET_SERVER_URL variable to point to your own server.
 
 The color array: The app uses the colorarr array to randomly select colors for the lines being drawn. You can modify this array to add or remove colors from the list of available options.
+
+The background colour: The app uses two colours, c1 and c2 to form a background gradient colour. 
 
 The stroke weight: The app uses the strokeW variable to control the stroke weight of the lines being drawn. You can modify this variable to change the default stroke weight.
 
