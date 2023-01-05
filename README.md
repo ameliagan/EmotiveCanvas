@@ -61,3 +61,6 @@ The server listens for incoming connections on the specified port (SERVER_PORT) 
 The server.js file also sets up a socket.io connection to enable real-time communication between the server and clients. It listens for events such as 'mouse' and 'detections' and broadcasts them to all connected clients.
 
 Finally, the server.js file keeps track of connected clients using the userID array and removes them from the array when they disconnect.
+
+## More Info
+[Emotive Canvas](https://ameliagan.com/draw-with-your-emotions)
